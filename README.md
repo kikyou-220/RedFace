@@ -7,11 +7,11 @@ Unlike prior benchmarks, which typically rely on academic methods to generate de
 Moreover, RedFace's deepfakes are synthesized using bespoke algorithms, allowing it to capture diverse and evolving methods used by real-world deepfake creators.
 Extensive experimental results on RedFace  (including cross-domain, intra-domain, and real-world social network dissemination simulations) verify the limited practicality of existing deepfake detection schemes against real-world applications. 
 We further perform a detailed analysis of the RedFace dataset, elucidating the reason of its impact on detection performance compared to conventional datasets.
-## Dataset Download
-Google Drive: https://drive.google.com/file/d/1-vqW_82AJp6W681-dRnJcd-rq5y0DhyV/view?usp=drive_link
 
-BaiduNetdisk: https://pan.baidu.com/s/1f8ai_JVDoQRMvhW2eSxslg?pwd=j4i4 
+## Dataset Download
+Google Drive: [Link](https://drive.google.com/file/d/1-vqW_82AJp6W681-dRnJcd-rq5y0DhyV/view?usp=drive_link)
+
+BaiduNetdisk: [Link](https://pan.baidu.com/s/1f8ai_JVDoQRMvhW2eSxslg?pwd=j4i4 )
 
 ## Preview
-
-![Example Image](https://github.com/kikyou-220/RedFace/blob/main/images/image.pdf)
+![Example Image](https://github.com/kikyou-220/RedFace/blob/main/images/examples.png)
